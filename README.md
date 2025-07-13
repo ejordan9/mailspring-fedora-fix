@@ -1,5 +1,5 @@
 # mailspring-fedora-fix
-Fix for Mailspring losing Gmail sessions on Fedora Linux//olución para la pérdida de sesiones de Gmail en Mailspring sobre Fedora Linux
+Fix for Mailspring losing Gmail sessions on Fedora Linux//Solución para la pérdida de sesiones de Gmail en Mailspring sobre Fedora Linux
 Solución para la pérdida de sesiones de Gmail en Mailspring sobre Fedora Linux
 Este problema, ocurre con mayor frecuencia cuando se instala Mailspring desde la tienda de aplicaciones, Flatpak o Snap, debido a que estas versiones funcionan en un entorno aislado (sandbox) que impide el acceso adecuado al gestor de credenciales del sistema (`gnome-keyring`). También puede verse afectado por una dependencia rota en el paquete `.rpm` oficial.
 
