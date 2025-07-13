@@ -1,0 +1,4 @@
+title: "Solución Mailspring Fedora"
+author: "Enmanuel Jordán"
+description: "Guía para evitar que Mailspring pierda credenciales de Gmail al reiniciar Fedora"
+theme: jekyll-theme-cayman
